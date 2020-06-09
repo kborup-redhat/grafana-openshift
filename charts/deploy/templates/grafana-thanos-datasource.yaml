@@ -16,5 +16,5 @@ spec:
       name: "prometheus"
       orgId: 1
       type: "prometheus"
-      url: "https://thanos-querier.openshift-monitoring.svc:9092"
+      url: "https://thanos-querier.openshift-monitoring.svc:9091"
       version: 1
